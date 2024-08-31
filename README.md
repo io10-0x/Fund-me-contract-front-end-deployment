@@ -1,1 +1,1 @@
-Simple contract front end that contains a fund and withdraw function which can send funds to a contract and withdraw funds from a contract
+Follow instructions on https://github.com/io10-0x/hardhat-fund-me-fcc-backend-deployment.git README.md file to interact using this front end.
